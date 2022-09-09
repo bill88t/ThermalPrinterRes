@@ -1,0 +1,3 @@
+#!/bin/bash
+php /home/bill88t/Programs/th-pri/th-print-cut.php > /dev/usb/lp0
+exit 0

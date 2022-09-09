@@ -1,0 +1,4 @@
+#!/bin/bash
+php /home/bill88t/Programs/th-pri/th-print-image.php "$1" > /dev/usb/lp0
+thcut
+exit 0
